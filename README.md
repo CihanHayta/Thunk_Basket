@@ -4,10 +4,16 @@
 
 
 -Adding Food to the Cart: Users can add food items to the cart and view the products in the cart.
+
 -Updating the Cart: The quantity of food items in the cart can be increased or decreased.
+
 -Placing an Order: Users can place an order with the food items in their cart.
+
 -React Router: Page navigation and dynamic routing are handled.
+
 -Redux Thunk: Used for asynchronous data fetching (e.g., food list, orders).
+
+
 -JSON Server: Provides food data through a mock API.
 
 
